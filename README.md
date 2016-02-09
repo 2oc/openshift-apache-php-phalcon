@@ -1,4 +1,4 @@
-# openshift-apache-php
+# openshift-apache-php-phalcon
 
 Template for running a apache php with phalcon framework on a container based on alpine linux/openshift/docker.
 
